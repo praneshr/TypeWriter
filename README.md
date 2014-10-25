@@ -20,13 +20,13 @@ This is a initial version. More options to be included later...
 
 ======================
 Function Call Explained:
-
+<pre>
 typewriter(str,location,min,max);
 "str" is the string on which the typewriter has to work.
 "location" is the place in your html where the result from the plugin has to br displayed.
-"min" "max" are the minimun and maximum time delays. So,within the range of the min and max the time delay for each character
-will occur.
-
+"min" "max" are the minimun and maximum time delays. So,within the range of the min and 
+the time delay for each character will occur.
+</pre>
 ========================
 for any queries contact me at talkto@praneshravi.in
 for more of my works visit http://praneshravi.in
