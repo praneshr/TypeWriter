@@ -1,0 +1,29 @@
+<html>
+    <head>
+    <style>
+        body{
+            margin: 0;
+            background: #66CC99;
+            color: #FFF;
+        }
+        p{
+            text-align: center;
+            font-size: 80px;
+            font-family: fantasy;
+            margin-top: 20%;
+        }
+        </style>
+    </head>
+    <body>
+        <script src="../src/TypeWriter.js"></script>
+        <p id="a"></p>
+    </body>
+    <script>
+        //defining the text
+        str = "TypeWriter is Awesome!!!";
+        //defining the target location
+        a = document.getElementById("a");
+        //Function Call
+        typewrite(str,a,100,200);
+    </script>
+</html>
