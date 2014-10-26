@@ -27,6 +27,10 @@ typewriter(str,location,min,max);
 "min" "max" are the minimun and maximum time delays. So,within the range of the min and 
 the time delay for each character will occur.
 </pre>
+
 ========================
+Product Website http://praneshravi.in/typewriter
+========================
+
 for any queries contact me at talkto@praneshravi.in
 for more of my works visit http://praneshravi.in
